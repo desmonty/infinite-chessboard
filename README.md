@@ -1,5 +1,29 @@
 # infinite-chessboard
 A proof that there is an Hamiltonian path in the infinite knight graph
 
-This code is used to search for a minimal 'cell' for the meta-path on the infinite chessboard.
-
+0 0
+2 1
+4 0
+3 2
+4 4
+2 3
+0 4
+1 2
+3 1
+1 0
+0 2
+1 4
+3 3
+4 1
+2 0
+0 1
+1 3
+3 4
+4 2
+3 0
+1 1
+0 3
+2 2
+4 3
+2 4
+0 5
